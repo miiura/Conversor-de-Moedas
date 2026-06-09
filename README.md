@@ -1,5 +1,5 @@
-# projeto-fullstack
-Projeto referente à matéria de Programação Web Fullstack
+# projeto-Conversor-de-Moedas-Fullstack
+Este projeto consiste em uma aplicação simples que faz a conversão de um valor de uma moeda (ex: R$, U$) para outra utilizando a integração de APIs. (projeto referente à matéria de Programação Web Fullstack)
 
 INTEGRANTES: Fabrício Custódio da Silva, Leda Alexandre Miura
 
